@@ -26,7 +26,7 @@ geopandas
 #
 shapely
 #
-## Below libaries are for LucasShea_SARIMA_test.ipynb only
+## Below libraries are for LucasShea_SARIMA_test.ipynb only
 #
 pmdarima
 #
