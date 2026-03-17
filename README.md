@@ -1,40 +1,40 @@
-#####################################
+#
 Author: Lucas Shea
 
-#####################################
+
 #
 # Python version:
 requires-python = ">= 3.11"
 
-#####################################
+
 #
 # Libraries Used
-#
+
 os
-#
+
 pandas
-#
+
 matplotlib
-#
+
 folium
-#
+
 base64
-#
+
 IPython
-#
+
 geopandas
-#
+
 shapely
 #
 ## Below libraries are for LucasShea_SARIMA_test.ipynb only
-#
-pmdarima
-#
-sklearn
-#
-#statsmodels
 
-#####################################
+pmdarima
+
+sklearn
+
+statsmodels
+
+#
 # Link to GitHub repository 
 #
 [Click Here](https://github.com/Senkroytz/LucasShea_Rockborne_Week6_Python_EDA)
