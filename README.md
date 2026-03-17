@@ -75,10 +75,12 @@ statsmodels
 3. Download required files from [UK Police Data](https://data.police.uk/data/)
 
 #
-## Running script
+## Running scripts
 
 1. Place raw data files folder in same folder as scripts
 
 2. Open file 'LucasShea_Cleaning_Script.ipynb' and run. This should generate a file 'clean_dataset_week6.csv'
 
 3. Open file 'LucasShea_EDA_Report.ipynb' and run. Make sure 'clean_dataset_week6.csv' is in the same folder as this script
+
+4. Open file LucasShea_SARIMA_test.ipynb and run. Make sure 'clean_dataset_week6.csv' is in the same folder as this script
