@@ -72,7 +72,7 @@ statsmodels
 
 2. Install the required libraries 
 
-3. Download required files from [UK Police Data](https://data.police.uk/data/). Select dat range from 2024-01 to 2026-01 and Forces of "Thames Valley Police", "Warwickshire Police", "West Midlands Police", and "West Yorkshire Police"
+3. Download required files from [UK Police Data](https://data.police.uk/data/). Select date range from 2024-01 to 2026-01 and Forces of "Thames Valley Police", "Warwickshire Police", "West Midlands Police", and "West Yorkshire Police"
 
 #
 ## Running scripts
