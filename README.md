@@ -72,14 +72,14 @@ statsmodels
 
 2. Install the required libraries 
 
-3. Download required files from [UK Police Data](https://data.police.uk/data/)
+3. Download required files from [UK Police Data](https://data.police.uk/data/). Select dat range from 2024-01 to 2026-01 and Forces of "Thames Valley Police", "Warwickshire Police", "West Midlands Police", and "West Yorkshire Police"
 
 #
 ## Running scripts
 
 1. Place raw data files folder in same folder as scripts
 
-2. Open file 'LucasShea_Cleaning_Script.ipynb' and run. This should generate a file 'clean_dataset_week6.csv'
+2. Open file 'LucasShea_Cleaning_Script.ipynb' and replace 'base_path' global variable with raw data files folder name. The output of this script should generate a file 'clean_dataset_week6.csv'
 
 3. Open file 'LucasShea_EDA_Report.ipynb' and run. Make sure 'clean_dataset_week6.csv' is in the same folder as this script
 
