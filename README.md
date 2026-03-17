@@ -25,6 +25,14 @@ IPython
 geopandas
 #
 shapely
+#
+# Below libaries are for LucasShea_SARIMA_test.ipynb only
+#
+pmdarima
+#
+sklearn
+#
+#statsmodels
 
 #####################################
 # Link to GitHub repository 
