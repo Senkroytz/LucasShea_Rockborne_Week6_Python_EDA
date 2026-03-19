@@ -1,0 +1,10 @@
+[project]
+name = "lucasshea-rockborne-week6-python-eda"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "folium>=0.20.0",
+    "numpy>=2.4.3",
+]
